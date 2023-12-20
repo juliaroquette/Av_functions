@@ -14,7 +14,9 @@ This is done employing the [`dust_extinction`](https://dust-extinction.readthedo
 5. The upper and lower limit is defined by the availability of 3. 
 6. This extinction law is valid for the Milky Way.
 
-TO DO: In the future this package will also allow deriving $A_\lambda$ for a given photometric system given a transmission curve. 
+TO DO: 
+- Include a function to provide A_lambda for given lambda. 
+-  In the future this package will also allow deriving $A_\lambda$ for a given photometric system given a transmission curve. 
 
 # Extinction derivations using the T-Tauri Locus
 
