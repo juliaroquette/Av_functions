@@ -3,3 +3,6 @@ gitkey.pub
 Av_JHK_pnicer.ipynb
 *checkpoint*
 Filter_Profiles.ipynb
+.DS_Store
+*pyc
+get_Av_from_JHK_TTauriLocus.ipynb
